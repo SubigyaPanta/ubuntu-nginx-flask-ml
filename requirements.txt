@@ -1,7 +1,7 @@
 # Server
 Flask==0.12.2
 requests==2.18.4
-urllib3==1.22
+urllib3==1.26.5
 
 # Scientific libs in order to be installed
 numpy==1.14.0
